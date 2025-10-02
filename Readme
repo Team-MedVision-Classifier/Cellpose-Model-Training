@@ -1,5 +1,0 @@
-to activate the virtual env : source .venv/bin/activate
-
-
-pip install "cellpose==3.1.1" "opencv-python-headless==4.8.1.78"
-!pip install -U opencv-python-headless==4.10.0.84
